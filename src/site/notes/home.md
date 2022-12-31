@@ -5,10 +5,4 @@
 
 사이트 대문입니다~
 
-[No Folder](No%20Folder.md)
-
-[[No Folder]]
-
-
-[No Folder](https://bockchi-dev.netlify.app/?stackedPages=%2FNo%20Folder)
-
+[[No Folder\|No Folder]]
