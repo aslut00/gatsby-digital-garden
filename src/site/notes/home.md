@@ -7,7 +7,7 @@
 
 [No Folder](No%20Folder.md)
 
-[[No Foler\|No Foler]]
+[[No Foler]]
 
 
 [No Folder](https://bockchi-dev.netlify.app/?stackedPages=%2FNo%20Folder)
