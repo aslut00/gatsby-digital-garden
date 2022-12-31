@@ -10,6 +10,6 @@ module.exports = {
     `gatsby-plugin-netlify`
   ],
   siteMetadata: {
-    title: Bockchi-dev-Note,
+    title: `Bockchi-dev-Note`,
   },
 }
