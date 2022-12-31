@@ -7,4 +7,4 @@
 
 
 일지
-[[Node.js/Node JS\|Node JS]]
+[Node JS](Node%20JS.md)
