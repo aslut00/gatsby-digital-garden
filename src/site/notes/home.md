@@ -8,3 +8,6 @@
 
 일지
 [[Node.js/Node JS\|Node.js/Node JS]]
+<Node.js/Node JS>
+[Node.js/Node JS]
+[링크이름](Node.js/Node JS, "제발 이동")
